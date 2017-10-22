@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\job\kpu\3 - 2\directx_2\복습\directx_12\04\stdafx.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\job\kpu\3 - 2\directx_2\복습\directx_12\04\targetver.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  04.cpp
+04.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\job\kpu\3 - 2\directx_2\복습\directx_12\04\resource.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  GameFramework.cpp
+  GameTimer.cpp
+  코드를 생성하고 있습니다.
+  All 45 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  04.vcxproj -> D:\Job\KPU\3 - 2\DirectX_2\복습\directx_12\Release\04.exe
+  04.vcxproj -> D:\Job\KPU\3 - 2\DirectX_2\복습\directx_12\Release\04.pdb (Full PDB)
